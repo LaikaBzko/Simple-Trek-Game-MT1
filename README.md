@@ -1,13 +1,17 @@
 # MT1
  A simple star trek based trek game for my Games Programming Techniques unit, of my 3rd year of BSE @ UC :3
  
+ Nothing super special. Please don't C&D me paramount. 
 ## instructions
 Arrow keys move up down left right
+
 Space fires photons / progresses the screens (e.g. fail screen, victory screen, etc)
+
 R resets game
+
 C forces level completion
  
- Nothing super special. Please don't C&D me paramount. 
+
 ## Asset sources
 voyager by Alexander Klemm https://www.artstation.com/artwork/9e9moy
 
