@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/school/year 3 sem 1/GPT/MT1/Project1/Content/explosion.mp3</SourceFile>
+  <SourceTime>2023-03-13T15:14:06+11:00</SourceTime>
+  <DestFile>G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/explosion.xnb</DestFile>
+  <DestTime>2023-03-13T15:20:14+11:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T21:44:56+10:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T21:44:56+10:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

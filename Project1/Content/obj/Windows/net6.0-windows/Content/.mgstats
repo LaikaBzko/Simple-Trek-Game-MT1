@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/battlestations.wav","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/battlestations.xnb","SoundEffectProcessor","SoundEffectContent",29324,29385,0.32646
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/CCVerified.mp3","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/CCVerified.xnb","SoundEffectProcessor","SoundEffectContent",71457,428649,0.3193258
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/explosion.mp3","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/explosion.xnb","SoundEffectProcessor","SoundEffectContent",75948,364137,0.3015677
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/File.spritefont","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2455482
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/HUD.spritefont","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/HUD.xnb","FontDescriptionProcessor","SpriteFontContent",2076,70687,0.2395503
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/HUDBig.spritefont","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/HUDBig.xnb","FontDescriptionProcessor","SpriteFontContent",2076,267295,0.2611618
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/redAlert.mp3","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/redAlert.xnb","SoundEffectProcessor","SoundEffectContent",20928,92265,0.1268399
+"G:/school/year 3 sem 1/GPT/MT1/Project1/Content/Torpedo_fire.mp3","G:/school/year 3 sem 1/GPT/MT1/Project1/Content/bin/Windows/Content/Torpedo_fire.xnb","SoundEffectProcessor","SoundEffectContent",27611,152169,0.1376639
